@@ -22,6 +22,11 @@ Jack Mazanec, Douglas Smith, Ethan Williams, Jon Westhoff, and Kevin Wern.
 
 To learn more, see the [Basekernel Wiki](https://github.com/dthain/basekernel/wiki).
 
+## Dependencies 
+
+- g++
+- curl
+
 ## Quick Start Instructions
 
 If you are building on a Linux-X86 machine
