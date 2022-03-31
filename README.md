@@ -27,6 +27,8 @@ To learn more, see the [Basekernel Wiki](https://github.com/dthain/basekernel/wi
 - g++
 - curl
 - texinfo (Ubuntu atleast)
+- genisoimage
+- wamerican
 
 ## Quick Start Instructions
 
